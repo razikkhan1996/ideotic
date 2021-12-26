@@ -6,15 +6,6 @@ import Login from './components/Login';
 import Signup from './components/Signup';
 import { getAuth, onAuthStateChanged } from '@firebase/auth';
 
-// const firebaseConfig = {
-//   apiKey: "AIzaSyCst1iAbgfxznI4z98CiNUj2mzBR8EbiEk",
-//   authDomain: "live-demo-b3724.firebaseapp.com",
-//   projectId: "live-demo-b3724",
-//   storageBucket: "live-demo-b3724.appspot.com",
-//   messagingSenderId: "269118493133",
-//   appId: "1:269118493133:web:20aeb425c3004b9766b484"
-// };
-
 const firebaseConfig = {
   apiKey: "AIzaSyDNXVi3tfutV6ZGI6-rt3xmfKxoxEBCnBo",
   authDomain: "ideotic-login.firebaseapp.com",
